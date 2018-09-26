@@ -1,0 +1,25 @@
+{
+  "name": "first_test_bower_package",
+  "homepage": "git@github.com:mdiachok/testBowerPackage.git",
+  "version": "0.0.1",
+  "authors": [
+    "mdiachok <maryana_roses@ukr.net>"
+  ],
+  "description": "some",
+  "main": "index.js",
+  "keywords": [
+    "firstportfolio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
+
